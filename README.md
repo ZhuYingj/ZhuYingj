@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Tommy, an aspiring software engineer.
+
+## Software Skills
+- Python, C/C++, Java, SQL, HTML/CSS/JavaScript/Typescript
+- React, Angular, Node.js, Express.js, WebSocket/Socket.IO
+- MySQL, MongoDB
+
 <!--
 **ZhuYingj/ZhuYingj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
