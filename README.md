@@ -4,8 +4,8 @@ I'm Tommy, an aspiring software engineer.
 
 ## Software Skills
 - Python, Java, HTML/CSS/JavaScript/Typescript, C/C++
-- React, Angular, Node.js, Express.js, WebSocket/Socket.IO
-- MySQL, MongoDB
+- React, Angular, Node.js, Express.js, WebSocket/Socket.IO, Springboot, RESTApi
+- MySQL, MongoDB, Docker, AWS
 - AWS, Vercel
 
 <!--
